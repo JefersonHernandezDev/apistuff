@@ -7,7 +7,7 @@ from destacados import destacados
 from custom_screens import getCustomScreens
 from seciones import destacados_data
 from content import content
-
+from sections import seccion_realities
 app = FastAPI()
 
 
@@ -37,6 +37,8 @@ def read_item(name: str):
         return {"datos": datos}
     elif name == "destacados":
         return destacados_data.data
+    elif name == "realities":
+        return seccion_realities
     # elif name == "section_to_navigate_envivo":
     #    return {}
     else:
