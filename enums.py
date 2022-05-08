@@ -10,7 +10,7 @@ class Seccion(enum.Enum):
     SERIES = "series"
     KIDSIETE = "kidsiete"
     ESMUCHOMAS = "esmuchomas"
-    REALITIES = "REALITIES"
+    REALITIES = "realities"
 
 
 class Screen(enum.Enum):
