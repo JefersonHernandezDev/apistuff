@@ -37,7 +37,7 @@ destacadosList = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_CUADRADO,
-        "content": "section_to_navigate_logos_programas",
+        "content":  f"{API}content/section_to_navigate_logos_programas",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
