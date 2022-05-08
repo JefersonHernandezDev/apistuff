@@ -136,7 +136,7 @@ destacadosList = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_LANDSCAPE_WITH_ACTION,
-        "content": "provider_required_by_action",
+        "content": f"{API}content/cine",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
