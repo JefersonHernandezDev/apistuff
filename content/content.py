@@ -154,7 +154,7 @@ enVivoCarrouselItems = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NAVIGATE,
         "componentType": Component.CHILD,
-        "content": "live",
+        "content": "interactua",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     }

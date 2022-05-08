@@ -11,6 +11,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.BANNER_PRINCIPAL,
         "content": "provider_required_by_action",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -19,6 +20,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_LIVE,
         "content": f"{API}content/section_to_navigate_envivo",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -26,6 +28,7 @@ destacadosList = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.OPEN_WEB_VIEW,
         "componentType": Component.ADS_CONTAINER,
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "content": f"{API}webview/interactua",
         "askForLogin": False
     },
@@ -35,6 +38,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_CUADRADO,
         "content": "section_to_navigate_logos_programas",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -43,6 +47,7 @@ destacadosList = [
         "action": Action.OPEN_WEB_VIEW,
         "componentType": Component.ADS_CONTAINER,
         "content": f"{API}webview/interactua",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -51,6 +56,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/programas_recomendados",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -59,6 +65,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/realities",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -67,6 +74,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/programas",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -75,6 +83,7 @@ destacadosList = [
         "action": Action.OPEN_WEB_VIEW,
         "componentType": Component.ADS_CONTAINER,
         "content": f"{API}webview/interactua",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -83,6 +92,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/novelas",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -91,6 +101,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/a_mas",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -99,6 +110,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/series",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -107,6 +119,7 @@ destacadosList = [
         "action": Action.OPEN_WEB_VIEW,
         "componentType": Component.ADS_CONTAINER,
         "content": f"{API}webview/interactua",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -115,6 +128,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/cine",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -123,6 +137,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_LANDSCAPE_WITH_ACTION,
         "content": "provider_required_by_action",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -131,6 +146,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/kit_siete",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
     {
@@ -139,6 +155,7 @@ destacadosList = [
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_PORTRAIT,
         "content": f"{API}content/es_mucho_mas",
+        "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     }
 ]
