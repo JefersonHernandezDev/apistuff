@@ -64,7 +64,7 @@ available = [
     {
         "title": "Es mucho mas",
         "tabBarItem": "Inicio",
-        "seccion":  f"{API}seccion/realities",
+        "seccion":  f"{API}seccion/es_mucho_mas",
         "screenType": Screen.WEBVIEW,
         "authLevel": AuthLevel.PUBLIC
     }
