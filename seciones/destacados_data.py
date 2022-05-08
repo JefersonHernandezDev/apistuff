@@ -18,7 +18,7 @@ destacadosList = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NONE,
         "componentType": Component.CARROUSEL_HORIZONTAL_LIVE,
-        "content": "section_to_navigate_envivo",
+        "content": f"{API}content/section_to_navigate_envivo",
         "askForLogin": False
     },
     {

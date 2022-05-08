@@ -128,7 +128,7 @@ enVivoCarrouselItems = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NAVIGATE,
         "componentType": Component.CHILD,
-        "content": "screen_envivo",
+        "content": "live",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False,
     },
@@ -137,7 +137,7 @@ enVivoCarrouselItems = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NAVIGATE,
         "componentType": Component.CHILD,
-        "content": "screen_envivo",
+        "content": "live",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     },
@@ -146,7 +146,7 @@ enVivoCarrouselItems = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NAVIGATE,
         "componentType": Component.CHILD,
-        "content": "screen_envivo",
+        "content": "live",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False},
     {
@@ -154,7 +154,7 @@ enVivoCarrouselItems = [
         "authLevel": AuthLevel.PUBLIC,
         "action": Action.NAVIGATE,
         "componentType": Component.CHILD,
-        "content": "screen_envivo",
+        "content": "live",
         "thumbnail": "https://via.placeholder.com/300x150/D7385E/FFFFFF?text=Thumbnail",
         "askForLogin": False
     }
